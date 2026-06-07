@@ -1,0 +1,4 @@
+Studied linked lists and their implementation concepts.
+Learned insertion, deletion, and traversal operations in linked lists.
+Solved basic coding problems involving linked list manipulation.
+Discussed time complexity analysis of linked list operations.

@@ -1,0 +1,4 @@
+Studied Python Functions, parameters, and return statements.
+Learned SQL DML commands: INSERT, UPDATE, DELETE, and SELECT.
+Discussed problem-solving strategies and algorithm design techniques.
+Implemented modular Python programs using reusable functions.

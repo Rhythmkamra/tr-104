@@ -1,0 +1,4 @@
+Learned Object-Oriented Programming concepts including classes and objects.
+Studied advanced SQL joins and real-world database relationships.
+Introduction to arrays and linked lists in Data Structures.
+Implemented simple class-based Python programs.

@@ -1,0 +1,4 @@
+Performed mini data analysis exercises using Pandas, NumPy, and Matplotlib.
+Studied stored procedures and functions in SQL.
+Introduction to Machine Learning algorithms and supervised learning concepts.
+Discussed real-world applications of predictive analytics and data-driven decision making

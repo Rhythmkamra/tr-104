@@ -1,0 +1,5 @@
+Studied Python modules and packages for code organization and reusability.
+Learned how to import built-in and user-defined modules.
+Studied SQL string functions including CONCAT(), SUBSTRING(), TRIM(), and REPLACE().
+Introduction to arrays and their implementation in Data Structures.
+Solved practice questions involving modular programming and array traversal.

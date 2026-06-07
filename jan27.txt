@@ -1,0 +1,4 @@
+Attended a Python session covering Lists, indexing, slicing, and list manipulation methods.
+Studied basic SQL concepts including databases, tables, rows, columns, and relational database systems.
+Introduction to Data Structures and Algorithms (DSA) and the importance of efficient data organization.
+Solved basic Python coding exercises involving list operations and user input handling.

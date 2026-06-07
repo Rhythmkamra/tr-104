@@ -1,0 +1,4 @@
+Worked with Python Dictionaries and key-value pair operations.
+Studied SQL constraints including Primary Key, Foreign Key, Unique Key, and NOT NULL constraints.
+Learned Big-O notation and analyzed the complexity of simple algorithms.
+Solved dictionary-based frequency counting and lookup problems.

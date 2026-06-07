@@ -1,0 +1,4 @@
+Continued data visualization using Seaborn for statistical plots.
+Learned SQL indexing concepts and query optimization techniques.
+Studied recursion and recursive tree structures.
+Compared different visualization techniques for data interpretation

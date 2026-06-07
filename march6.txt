@@ -1,0 +1,4 @@
+Studied Stack data structure and its applications.
+Implemented stack operations using arrays and Python lists.
+Solved problems involving balanced parentheses and expression evaluation.
+Discussed practical applications of stacks in recursion and compiler design.

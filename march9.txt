@@ -1,0 +1,4 @@
+Introduction to Passion Projects and research-based problem solving.
+Explored various project domains including NLP, Document Analysis using LLMs, Sentiment Analysis, and Smart Search Systems.
+Discussed project selection methodology and literature review process.
+Learned how Data Science projects are structured from problem statement to deployment.

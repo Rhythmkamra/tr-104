@@ -1,0 +1,4 @@
+Explored advanced NumPy operations and vectorized computations.
+Studied SQL mathematical functions and conditional statements using CASE.
+Learned linear search and binary search algorithms.
+Compared algorithm efficiency using time complexity analysis.

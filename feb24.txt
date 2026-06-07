@@ -1,0 +1,4 @@
+Continued working with Pandas DataFrames for data filtering, grouping, and aggregation.
+Studied Machine Learning workflow including train-test split and model evaluation concepts.
+Introduction to Dataiku platform and its interface components.
+Explored dataset creation and project setup within Dataiku.

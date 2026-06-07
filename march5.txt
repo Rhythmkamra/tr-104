@@ -1,0 +1,4 @@
+Introduction to Principal Component Analysis (PCA) for dimensionality reduction.
+Discussed feature selection and feature extraction techniques.
+Studied Dataiku interactive statistics and correlation analysis tools.
+Performed exploratory analysis using statistical visualizations.

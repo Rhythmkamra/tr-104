@@ -1,0 +1,4 @@
+Introduction to text vectorization techniques.
+Learned concepts of Bag of Words and TF-IDF representation.
+Studied Dataiku machine learning workflow and model creation process.
+Discussed feature engineering techniques used in predictive modeling.

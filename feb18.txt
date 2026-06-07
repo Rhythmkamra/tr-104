@@ -1,0 +1,4 @@
+Studied handling missing values and duplicate records in datasets.
+Learned SQL transactions including COMMIT, ROLLBACK, and SAVEPOINT.
+Discussed probability distributions and their importance in Machine Learning.
+Performed exploratory analysis on sample datasets.

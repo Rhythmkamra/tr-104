@@ -1,0 +1,4 @@
+Learned data preprocessing techniques including handling missing values and outliers.
+Studied Dataiku visual recipes for data preparation and transformation.
+Discussed supervised learning algorithms and their practical applications.
+Performed exploratory data analysis on sample datasets.

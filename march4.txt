@@ -1,0 +1,4 @@
+Studied classification algorithms including Logistic Regression and Naïve Bayes.
+Learned model evaluation metrics such as Accuracy, Precision, Recall, and F1-Score.
+Explored visual machine learning capabilities in Dataiku.
+Participated in practical exercises involving classification tasks.

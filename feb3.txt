@@ -1,0 +1,4 @@
+Studied recursion and recursive problem solving in Python.
+Learned aggregate SQL functions such as COUNT(), SUM(), AVG(), MIN(), and MAX().
+Discussed the role of Machine Learning within the Data Science pipeline.
+Implemented recursive solutions for factorial and Fibonacci problems.

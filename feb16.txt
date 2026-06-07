@@ -1,0 +1,4 @@
+Introduction to Pandas library and DataFrame structures.
+Learned data loading from CSV files and basic data inspection methods.
+Studied database normalization concepts including 1NF, 2NF, and 3NF.
+Practiced data cleaning operations using Pandas.

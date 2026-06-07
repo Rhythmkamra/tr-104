@@ -1,0 +1,4 @@
+Learned Tuple and Set data structures in Python along with their use cases.
+Studied SQL Data Definition Language (DDL) commands: CREATE, ALTER, DROP, and TRUNCATE.
+Discussed algorithm analysis and introduction to time complexity.
+Practiced creating database schemas and writing simple SQL queries.

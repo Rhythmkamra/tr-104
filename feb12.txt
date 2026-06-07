@@ -1,0 +1,4 @@
+Studied NumPy fundamentals and multidimensional array creation.
+Learned array indexing, slicing, reshaping, and broadcasting techniques.
+Introduction to Machine Learning workflow including data collection and preprocessing.
+Practiced numerical computations using NumPy arrays.

@@ -1,0 +1,4 @@
+Introduction to data visualization using Matplotlib.
+Created line plots, bar charts, histograms, and scatter plots.
+Studied stacks and queues in Data Structures.
+Practiced visualizing trends and patterns from tabular data.

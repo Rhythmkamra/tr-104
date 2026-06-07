@@ -1,0 +1,4 @@
+Learned advanced Python concepts including enumerate(), zip(), and list comprehensions.
+Studied SQL date and time functions such as NOW(), CURDATE(), and DATEDIFF().
+Discussed searching algorithms and their applications.
+Implemented programs for efficient data processing using list comprehensions.

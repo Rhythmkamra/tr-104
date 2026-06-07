@@ -1,0 +1,4 @@
+Learned advanced function concepts including default arguments and variable-length arguments.
+Studied SQL filtering using WHERE, ORDER BY, DISTINCT, and LIMIT.
+Introduction to Data Science workflow and its applications in industry.
+Practiced writing SQL queries on sample datasets.

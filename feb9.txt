@@ -1,0 +1,4 @@
+Studied inheritance and polymorphism in Python.
+Learned subqueries and nested queries in SQL.
+Discussed data preprocessing, cleaning, and feature preparation in Data Science.
+Solved coding exercises involving OOP concepts and SQL query optimization.

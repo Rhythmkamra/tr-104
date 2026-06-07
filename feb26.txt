@@ -1,0 +1,4 @@
+Introduction to Natural Language Processing (NLP) and its real-world applications.
+Learned text preprocessing techniques including tokenization and stop-word removal.
+Practiced basic text cleaning operations using Python.
+Discussed challenges associated with processing unstructured text data.

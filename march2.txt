@@ -1,0 +1,4 @@
+Studied stemming and lemmatization techniques in NLP.
+Learned SQL joins including INNER JOIN, LEFT JOIN, and RIGHT JOIN through practical examples.
+Explored Dataiku data exploration features and dataset profiling.
+Performed hands-on exercises involving relational datasets.

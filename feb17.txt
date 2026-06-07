@@ -1,0 +1,4 @@
+Worked with Pandas DataFrames for filtering, sorting, and aggregation.
+Studied SQL Views and their use in simplifying complex queries.
+Learned linked list concepts and basic operations.
+Implemented data manipulation tasks using real-world datasets

@@ -1,0 +1,4 @@
+Studied Exception Handling using try, except, else, and finally.
+Learned SQL Joins including INNER JOIN and LEFT JOIN.
+Discussed supervised and unsupervised learning concepts in Machine Learning.
+Solved database exercises involving multi-table queries.
