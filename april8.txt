@@ -1,0 +1,4 @@
+Introduction to Time Series Analysis and its applications in forecasting.
+Studied trend, seasonality, cyclic, and irregular components of time-series data.
+Learned data resampling and windowing techniques.
+Explored forecasting use cases in finance, weather, and business analytics

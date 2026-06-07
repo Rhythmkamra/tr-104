@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Internship Diary Viewer</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+<style>
+
+body{
+    font-family:'Roboto',sans-serif;
+    background:#f0f2f5;
+    margin:0;
+    padding:40px 20px;
+    color:#333;
+}
+
+.container{
+    max-width:800px;
+    margin:auto;
+    background:#fff;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 10px 30px rgba(0,0,0,0.08);
+}
+
+h1{
+    text-align:center;
+    color:#1e3a8a;
+    margin-bottom:25px;
+}
+
+.search-box{
+    width:100%;
+    padding:12px;
+    font-size:16px;
+    border:1px solid #d1d5db;
+    border-radius:8px;
+    margin-bottom:20px;
+    box-sizing:border-box;
+}
+
+.day-item{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 10px;
+    border-bottom:1px solid #e5e7eb;
+    transition:0.3s;
+}
+
+.day-item:hover{
+    background:#f8fafc;
+}
+
+.day-info{
+    display:flex;
+    flex-direction:column;
+}
+
+.day-number{
+    font-size:14px;
+    color:#64748b;
+}
+
+button{
+    padding:10px 18px;
+    border:none;
+    background:#2563eb;
+    color:white;
+    border-radius:6px;
+    cursor:pointer;
+    font-weight:500;
+}
+
+button:hover{
+    background:#1d4ed8;
+}
+
+.modal{
+    display:none;
+    position:fixed;
+    z-index:999;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    overflow:auto;
+    background:rgba(0,0,0,0.5);
+    backdrop-filter:blur(4px);
+}
+
+.modal-content{
+    background:#fff;
+    width:90%;
+    max-width:700px;
+    margin:50px auto;
+    border-radius:10px;
+    padding:25px;
+    box-shadow:0 15px 40px rgba(0,0,0,0.2);
+}
+
+.close{
+    float:right;
+    font-size:32px;
+    cursor:pointer;
+    color:#888;
+}
+
+.close:hover{
+    color:#000;
+}
+
+#modal-header{
+    color:#1e3a8a;
+    border-bottom:1px solid #e0e7ff;
+    padding-bottom:10px;
+}
+
+#viewer-content{
+    margin-top:15px;
+    white-space:pre-wrap;
+    background:#f8fafc;
+    border:1px solid #d1d5db;
+    border-radius:8px;
+    padding:15px;
+    max-height:500px;
+    overflow-y:auto;
+    line-height:1.8;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>📖 Internship Daily Diary</h1>
+
+    <input
+        type="text"
+        id="searchBox"
+        class="search-box"
+        placeholder="Search by date..."
+    >
+
+    <div id="list"></div>
+
+</div>
+
+<div id="diaryModal" class="modal">
+
+    <div class="modal-content">
+
+        <span class="close" onclick="closeModal()">&times;</span>
+
+        <h2 id="modal-header"></h2>
+
+        <div id="viewer-content"></div>
+
+    </div>
+
+</div>
+
+<script>
+
+const startDate = new Date("2026-01-15");
+const endDate = new Date("2026-06-15");
+
+const diaryEntries = [];
+
+let current = new Date(startDate);
+
+const monthNames = {
+    0: "jan",
+    1: "feb",
+    2: "march",
+    3: "april",
+    4: "may",
+    5: "june"
+};
+
+while(current <= endDate){
+
+    const dayOfWeek = current.getDay();
+
+    // Skip Saturday and Sunday
+    if(dayOfWeek !== 0 && dayOfWeek !== 6){
+
+        const month = monthNames[current.getMonth()];
+        const day = current.getDate();
+
+        diaryEntries.push({
+            displayDate: current.toLocaleDateString("en-GB",{
+                day:"2-digit",
+                month:"short",
+                year:"numeric"
+            }),
+            fileName: `${month}${day}.txt`
+        });
+
+    }
+
+    current.setDate(current.getDate() + 1);
+}
+
+const list = document.getElementById("list");
+const diaryModal = document.getElementById("diaryModal");
+const modalHeader = document.getElementById("modal-header");
+const viewerContent = document.getElementById("viewer-content");
+
+diaryEntries.forEach((entry,index)=>{
+
+    const div = document.createElement("div");
+
+    div.className = "day-item";
+
+    div.innerHTML = `
+        <div class="day-info">
+            <strong>${entry.displayDate}</strong>
+            <span class="day-number">Day ${index + 1}</span>
+        </div>
+
+        <button onclick="loadEntry('${entry.fileName}','${entry.displayDate}',${index+1})">
+            View Entry
+        </button>
+    `;
+
+    list.appendChild(div);
+
+});
+
+function loadEntry(fileName,date,dayNumber){
+
+    modalHeader.textContent =
+        `${date} | Day ${dayNumber}`;
+
+    viewerContent.textContent =
+        "Loading entry...";
+
+    fetch(fileName)
+    .then(response => {
+
+        if(!response.ok){
+            throw new Error();
+        }
+
+        return response.text();
+
+    })
+    .then(text => {
+
+        viewerContent.textContent = text;
+        diaryModal.style.display = "block";
+
+    })
+    .catch(() => {
+
+        viewerContent.textContent =
+`Entry not found.
+
+Expected file:
+${fileName}`;
+
+        diaryModal.style.display = "block";
+
+    });
+
+}
+
+function closeModal(){
+
+    diaryModal.style.display = "none";
+
+}
+
+window.onclick = function(event){
+
+    if(event.target === diaryModal){
+
+        closeModal();
+
+    }
+
+};
+
+document
+.getElementById("searchBox")
+.addEventListener("input", function(){
+
+    const value = this.value.toLowerCase();
+
+    document
+    .querySelectorAll(".day-item")
+    .forEach(item => {
+
+        item.style.display =
+            item.innerText.toLowerCase().includes(value)
+            ? "flex"
+            : "none";
+
+    });
+
+});
+
+</script>
+
+</body>
+</html>

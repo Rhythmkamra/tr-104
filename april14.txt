@@ -1,0 +1,4 @@
+Studied Retrieval Augmented Generation (RAG) architecture.
+Learned document retrieval and context augmentation workflows.
+Explored Dataiku Generative AI modules and LLM integration features.
+Discussed practical use cases of enterprise AI assistants.

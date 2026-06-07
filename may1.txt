@@ -1,0 +1,4 @@
+Studied Greedy Algorithms and their optimization strategies.
+Learned activity selection and interval scheduling problems.
+Compared greedy and dynamic programming approaches.
+Solved coding exercises involving optimization problems.

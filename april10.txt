@@ -1,0 +1,4 @@
+Studied Graph data structures and graph representations.
+Learned adjacency matrix and adjacency list implementations.
+Performed graph traversal using Depth First Search (DFS).
+Solved practice problems involving graph traversal techniques.

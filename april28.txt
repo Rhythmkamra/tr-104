@@ -1,0 +1,4 @@
+Explored embedding models and semantic representations.
+Learned document chunking strategies for Retrieval Augmented Generation (RAG).
+Studied knowledge retrieval pipelines used in LLM applications.
+Performed conceptual design of document-based question-answering systems.

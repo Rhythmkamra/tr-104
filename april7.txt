@@ -1,0 +1,4 @@
+Studied Long Short-Term Memory (LSTM) networks and their advantages over traditional RNNs.
+Learned how LSTMs address the vanishing gradient problem in sequential data processing.
+Explored time-series forecasting applications using recurrent architectures.
+Performed conceptual analysis of sequence prediction problems.

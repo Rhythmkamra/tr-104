@@ -1,0 +1,4 @@
+Studied Prompt Engineering techniques for Large Language Models.
+Learned zero-shot, one-shot, and few-shot prompting approaches.
+Explored prompt optimization strategies for improving model responses.
+Practiced designing prompts for various NLP tasks.

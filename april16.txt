@@ -1,0 +1,4 @@
+Explored Dataiku Generative AI Practitioner modules.
+Learned implementation of text-processing workflows using Large Language Models.
+Studied embedding generation and semantic search concepts.
+Discussed practical applications of GenAI in business workflows

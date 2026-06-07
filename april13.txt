@@ -1,0 +1,4 @@
+Introduction to Generative AI and Large Language Models (LLMs).
+Learned transformer architecture fundamentals and attention mechanisms.
+Discussed the evolution from traditional NLP models to transformer-based models.
+Explored practical applications of LLMs in industry.

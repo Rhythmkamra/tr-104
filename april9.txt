@@ -1,0 +1,4 @@
+Studied ARIMA (AutoRegressive Integrated Moving Average) model for forecasting.
+Learned concepts of stationarity and differencing.
+Performed exploratory analysis on sample time-series datasets.
+Compared traditional statistical forecasting approaches with machine learning-based forecasting.

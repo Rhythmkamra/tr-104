@@ -1,0 +1,4 @@
+Introduction to Vector Databases and semantic search systems.
+Learned embeddings-based retrieval mechanisms.
+Studied concepts of similarity search and nearest neighbor retrieval.
+Discussed applications of vector databases in modern AI systems.

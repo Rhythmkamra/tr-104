@@ -1,0 +1,4 @@
+Introduction to FastAPI framework and modern API development.
+Learned REST API concepts including GET, POST, PUT, and DELETE methods.
+Studied request-response architecture and API endpoints.
+Created simple API examples and tested endpoints using Postman.

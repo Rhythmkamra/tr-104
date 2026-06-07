@@ -1,0 +1,4 @@
+Studied Breadth First Search (BFS) algorithm.
+Compared BFS and DFS traversal methods.
+Analyzed shortest-path computation in unweighted graphs.
+Solved graph traversal coding exercises and complexity analysis.

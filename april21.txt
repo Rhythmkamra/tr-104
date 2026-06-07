@@ -1,0 +1,4 @@
+Studied API testing and validation using Postman.
+Learned how to send GET, POST, PUT, and DELETE requests to REST APIs.
+Explored JSON data structures and API response handling.
+Performed practical exercises involving API endpoint testing and debugging.

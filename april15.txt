@@ -1,0 +1,5 @@
+Introduction to LangChain framework for LLM orchestration.
+Learned concepts of chains, prompts, memory, and agents.
+Studied integration of external knowledge sources with language models.
+Performed conceptual design of a question-answering system.
+

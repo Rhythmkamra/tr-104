@@ -1,0 +1,4 @@
+Learned Docker commands for image creation and container management.
+Studied Dockerfile structure and image-building workflow.
+Practiced containerizing simple Python applications.
+Discussed deployment challenges solved through containerization.

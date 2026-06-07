@@ -1,0 +1,4 @@
+Introduction to Docker and containerization concepts.
+Learned differences between virtual machines and containers.
+Studied Docker architecture including images, containers, and registries.
+Explored real-world use cases of Docker in application deployment.

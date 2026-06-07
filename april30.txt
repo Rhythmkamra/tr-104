@@ -1,0 +1,4 @@
+Introduction to AI Agents and autonomous workflow systems.
+Learned concepts of tools, memory, reasoning, and task execution.
+Studied how agents interact with external systems and APIs.
+Discussed practical business applications of AI agents.
