@@ -1,0 +1,5 @@
+Studied Python numeric data types including Integer, Float, Complex, and Boolean.
+Learned operator precedence and expression evaluation mechanisms.
+Implemented programs using arithmetic, assignment, comparison, logical, identity, and membership operators.
+Explored Boolean algebra and short-circuit evaluation in logical expressions.
+Solved programming exercises involving mathematical computations and conditional evaluation

@@ -1,0 +1,5 @@
+Studied nested loops and their applications in pattern generation.
+Implemented matrix-style pattern printing and number-based structures.
+Learned algorithm optimization techniques for repetitive computations.
+Practiced solving programming challenges involving multiple loop structures.
+Improved logical reasoning and problem-solving skills through coding exercises.

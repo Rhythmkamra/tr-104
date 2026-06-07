@@ -1,0 +1,6 @@
+21 January 2026
+Studied conditional control statements including if, elif, and else.
+Learned nested conditional structures and decision-making logic.
+Implemented programs involving grading systems, eligibility checks, and menu-driven operations.
+Understood logical flow design and algorithm development for conditional execution.
+Practiced debugging and error identification in conditional programs.

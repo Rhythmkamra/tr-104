@@ -1,0 +1,6 @@
+22 January 2026
+Studied iterative programming using for and while loops.
+Learned sequence traversal using the range() function.
+Implemented programs involving counting, accumulation, and iterative calculations.
+Practiced loop control statements including break, continue, and pass.
+Analyzed differences between entry-controlled and exit-controlled loops.

@@ -1,0 +1,5 @@
+Installed Python development environment and configured necessary tools.
+Studied Python architecture, interpreter workflow, and execution model.
+Learned about variables, identifiers, reserved keywords, and memory allocation concepts.
+Implemented basic programs involving user input, output formatting, and arithmetic operations.
+Practiced type checking and type conversion using type(), int(), float(), and str() functions.

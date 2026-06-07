@@ -1,0 +1,4 @@
+Attended the internship induction and orientation session.
+Gained an overview of the Data Science curriculum, internship objectives, evaluation criteria, and project workflow.
+Discussed the applications of Data Science, Machine Learning, NLP, Deep Learning, and Data Analytics in solving real-world problems.
+Understood the complete data science lifecycle including data collection, preprocessing, analysis, modeling, evaluation, and deployment.

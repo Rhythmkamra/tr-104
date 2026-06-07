@@ -1,0 +1,5 @@
+Studied Python string data structure and Unicode representation.
+Performed string indexing, slicing, concatenation, and repetition operations.
+Learned various string manipulation methods such as split(), join(), replace(), strip(), upper(), and lower().
+Implemented programs for text processing and pattern extraction.
+Practiced string formatting using f-strings and format() method.
