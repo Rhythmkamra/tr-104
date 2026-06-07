@@ -1,0 +1,4 @@
+Explored clustering concepts in unsupervised learning.
+Studied K-Means clustering algorithm and cluster formation process.
+Learned methods to determine the optimal number of clusters.
+Visualized clustering results using scatter plots.

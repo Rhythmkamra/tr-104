@@ -1,0 +1,4 @@
+Studied image preprocessing techniques used in Deep Learning.
+Learned image resizing, normalization, augmentation, and feature extraction.
+Discussed object detection and image recognition workflows.
+Performed practical demonstrations using image datasets.

@@ -1,0 +1,4 @@
+Introduction to Convolutional Neural Networks (CNNs).
+Studied convolution, kernels, feature maps, and pooling operations.
+Discussed image classification applications using CNN architectures.
+Examined popular architectures such as LeNet and VGG

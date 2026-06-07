@@ -1,0 +1,4 @@
+Introduction to Multilayer Perceptrons (MLPs) and feedforward neural networks.
+Learned forward propagation and weight updating mechanisms.
+Discussed hidden layers and their significance in feature learning.
+Implemented a basic neural network model using TensorFlow/Keras.

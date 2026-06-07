@@ -1,0 +1,4 @@
+Introduction to Recurrent Neural Networks (RNNs).
+Studied sequence modeling and temporal dependency handling.
+Learned limitations of traditional neural networks for sequential data.
+Discussed applications of RNNs in NLP, speech processing, and time-series forecasting.

@@ -1,0 +1,4 @@
+Introduction to Deep Learning and Artificial Neural Networks.
+Studied biological inspiration behind neural network architectures.
+Learned concepts of neurons, layers, weights, biases, and activation functions.
+Discussed differences between Machine Learning and Deep Learning approaches.

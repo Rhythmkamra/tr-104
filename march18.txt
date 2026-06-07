@@ -1,0 +1,4 @@
+Introduction to Word Embeddings and semantic vector representations.
+Learned concepts of Word2Vec and GloVe embeddings.
+Discussed limitations of traditional vectorization techniques.
+Performed experiments comparing TF-IDF and embedding approaches.

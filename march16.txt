@@ -1,0 +1,4 @@
+Introduction to Latent Semantic Analysis (LSA) and semantic text representation.
+Discussed dimensionality reduction techniques used in NLP.
+Explored Dataiku Machine Learning models and model diagnostics.
+Performed text analysis using vectorized representations.

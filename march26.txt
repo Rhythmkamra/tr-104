@@ -1,0 +1,4 @@
+Studied model evaluation techniques including Cross Validation.
+Learned concepts of underfitting, overfitting, and bias-variance tradeoff.
+Explored hyperparameter tuning methods and model optimization strategies.
+Performed experiments with different train-test configurations

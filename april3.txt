@@ -1,0 +1,4 @@
+Studied recursion and Dynamic Programming techniques.
+Learned memoization concepts for optimization.
+Implemented recursive and dynamic programming solutions for classic problems.
+Compared iterative and recursive approaches based on efficiency.

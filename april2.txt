@@ -1,0 +1,4 @@
+Studied advanced NLP concepts including Topic Modeling.
+Learned Latent Dirichlet Allocation (LDA) for discovering hidden topics in text.
+Performed preprocessing and vectorization of textual datasets.
+Analyzed topic distributions across document collections.

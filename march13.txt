@@ -1,0 +1,4 @@
+Studied Queue data structure and its implementation methods.
+Learned enqueue, dequeue, peek, and traversal operations.
+Compared Stack and Queue based on practical use cases.
+Solved coding exercises involving queue applications.

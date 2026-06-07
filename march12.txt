@@ -1,0 +1,4 @@
+Explored data visualization techniques using Seaborn.
+Created heatmaps, boxplots, pairplots, and correlation matrices.
+Learned how visualization aids feature selection and data interpretation.
+Analyzed relationships among variables in sample datasets.

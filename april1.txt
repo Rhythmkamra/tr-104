@@ -1,0 +1,4 @@
+Introduction to Dataiku Machine Learning Practitioner concepts.
+Learned model creation, training, validation, and deployment workflows.
+Explored model explainability and feature importance analysis.
+Worked on visual machine learning pipelines within Dataiku.

@@ -1,0 +1,4 @@
+Studied Binary Trees and Binary Search Trees (BST).
+Learned insertion, searching, and traversal operations.
+Discussed pre-order, in-order, and post-order traversal techniques.
+Solved problems involving tree-based data structures.

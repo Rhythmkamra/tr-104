@@ -1,0 +1,4 @@
+Studied Binary Search Trees in detail.
+Performed insertion, deletion, and searching operations in BST.
+Analyzed time complexity of tree operations.
+Solved coding exercises involving binary tree traversal.

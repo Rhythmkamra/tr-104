@@ -1,0 +1,4 @@
+Introduction to Linear Regression and its mathematical foundations.
+Learned concepts of dependent and independent variables, slope, and intercept.
+Studied model training and prediction workflows.
+Implemented simple regression models using Python libraries.

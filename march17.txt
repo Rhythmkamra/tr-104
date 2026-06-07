@@ -1,0 +1,4 @@
+Studied Logistic Regression for binary classification problems.
+Learned sigmoid function and probability-based predictions.
+Evaluated classification performance using confusion matrices.
+Practiced classification tasks on sample datasets.

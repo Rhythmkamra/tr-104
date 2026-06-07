@@ -1,0 +1,4 @@
+Studied advanced text preprocessing techniques including Part-of-Speech (POS) Tagging and Named Entity Recognition (NER).
+Learned the significance of linguistic features in Natural Language Processing tasks.
+Explored Dataiku visual recipes for feature engineering and data transformation.
+Practiced extracting meaningful information from textual datasets.

@@ -1,0 +1,4 @@
+Studied activation functions used in neural networks including Sigmoid, Tanh, and ReLU.
+Learned the role of activation functions in introducing non-linearity into models.
+Explored Dataiku Explainable AI features for model interpretation.
+Performed comparative analysis of different activation functions on sample datasets.
