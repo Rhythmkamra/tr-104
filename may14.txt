@@ -1,0 +1,4 @@
+Introduction to MLOps concepts and model lifecycle management.
+Studied version control for datasets, code, and machine learning models.
+Learned monitoring and maintenance strategies for deployed systems.
+Discussed reproducibility and automation in machine learning projects.

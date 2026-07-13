@@ -1,0 +1,4 @@
+Studied Hashing and Hash Tables.
+Learned collision handling techniques including chaining and probing.
+Implemented hash-based lookup operations.
+Analyzed average-case and worst-case time complexities.

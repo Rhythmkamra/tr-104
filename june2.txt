@@ -1,0 +1,4 @@
+Studied project testing methodologies and validation techniques.
+Performed functional testing of implemented features.
+Learned bug tracking and issue resolution workflows.
+Evaluated system performance against project requirements.

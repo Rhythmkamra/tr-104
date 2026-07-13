@@ -1,0 +1,4 @@
+Studied chatbot architecture and conversational AI systems.
+Learned session management and context retention techniques.
+Explored conversational design principles for AI assistants.
+Performed analysis of real-world chatbot implementations.

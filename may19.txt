@@ -1,0 +1,4 @@
+Studied advanced Retrieval Augmented Generation (RAG) architectures.
+Learned document indexing and retrieval optimization techniques.
+Explored semantic search workflows using embeddings.
+Evaluated retrieval quality using sample datasets and queries.

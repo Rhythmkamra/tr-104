@@ -1,0 +1,4 @@
+Studied Trie Data Structure and prefix-based searching techniques.
+Learned insertion, searching, and deletion operations in Tries.
+Discussed applications of Tries in autocomplete and search engines.
+Solved practice problems involving string-based data structures.

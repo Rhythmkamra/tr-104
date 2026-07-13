@@ -1,0 +1,4 @@
+Studied Docker integration with FastAPI applications.
+Learned containerization of AI and Machine Learning solutions.
+Built Docker images and configured application environments.
+Explored deployment workflows using containers.

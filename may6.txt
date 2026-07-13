@@ -1,0 +1,4 @@
+Studied document processing pipelines used in modern AI applications.
+Learned text extraction techniques from PDF and unstructured documents.
+Explored preprocessing workflows for knowledge-base creation.
+Performed experiments with document cleaning and formatting.

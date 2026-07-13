@@ -1,0 +1,4 @@
+Worked with FastAPI for serving machine learning models.
+Created API endpoints for prediction and inference tasks.
+Learned request validation using Pydantic models.
+Tested API functionality using Postman.

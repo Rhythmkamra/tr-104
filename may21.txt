@@ -1,0 +1,4 @@
+Explored LangChain components including Chains, Agents, and Memory modules.
+Learned workflow orchestration for AI-powered applications.
+Implemented simple chains for automated query processing.
+Discussed practical applications of agent-based systems.

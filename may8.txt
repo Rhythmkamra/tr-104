@@ -1,0 +1,4 @@
+Studied Dynamic Programming fundamentals.
+Learned overlapping subproblems and optimal substructure concepts.
+Solved classic problems including Fibonacci, Climbing Stairs, and Knapsack.
+Compared recursive, memoized, and tabulation approaches.

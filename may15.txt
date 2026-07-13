@@ -1,0 +1,4 @@
+Studied Backtracking algorithms and problem-solving techniques.
+Learned recursive search-space exploration methods.
+Solved N-Queens and Sudoku Solver conceptual problems.
+Analyzed the complexity of backtracking solutions.

@@ -1,0 +1,4 @@
+Introduction to Model Deployment concepts.
+Studied deployment lifecycle from development to production.
+Learned API-based model serving architecture.
+Discussed challenges in maintaining deployed machine learning systems.

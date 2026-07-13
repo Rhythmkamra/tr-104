@@ -1,0 +1,4 @@
+Reviewed key concepts from Python, SQL, Machine Learning, NLP, and Deep Learning.
+Participated in technical discussions and knowledge-sharing sessions.
+Solved practical exercises covering multiple domains.
+Identified areas for improvement and further practice.

@@ -1,0 +1,4 @@
+Implemented data preprocessing pipeline for project datasets.
+Studied advanced prompt engineering strategies for task-specific responses.
+Explored chain-of-thought prompting and structured output generation.
+Tested prompts across different AI use cases and scenarios.

@@ -1,0 +1,4 @@
+Reviewed Dataiku workflows and machine learning pipelines.
+Revisited data preprocessing, feature engineering, and model evaluation concepts.
+Explored best practices for project deployment and maintenance.
+Participated in discussions on industry applications of Data Science.

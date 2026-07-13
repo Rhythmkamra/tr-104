@@ -1,0 +1,4 @@
+Studied Heap Data Structure and Priority Queues.
+Learned Min Heap and Max Heap operations.
+Implemented insertion, deletion, and heapify operations.
+Solved problems involving priority-based scheduling.
